@@ -17,18 +17,18 @@
 ![Experimental](https://img.shields.io/badge/Stage-Experimental-yellow?style=flat)
 ![Open Research](https://img.shields.io/badge/Research-Open-lightgrey?style=flat)
 
-```UNIFIED ECOSYSTEM BADGE STRIP
-`markdown
+UNIFIED ECOSYSTEM BADGE STRIP
+
 !GitDigital
 !Architecture
 !Governance
 !Security
 !Status
-`
-```
-```Full Badge Set
 
-`markdown
+
+Full Badge Set
+
+
 !Status
 !Layer
 !Quantum Safe
@@ -39,17 +39,17 @@
 !Docs
 !Version
 !License
-`
-```
 
-```project Badge
+
+
+project Badge
 !Status: Active
 !Governance: OGS-CRYPTO-001
 !Quantum-Safe
 !NIST PQC
 !Security Critical
 !Architecture: Nano/Micro
-```
+
 
 
 # EXECUTING-QUANTUM-SAFE-CRYPTOGRAPHY-FIRST
